@@ -17,8 +17,7 @@ Module Summaries
 
 Module 1 – Digital Literacy Awareness Infographic In this task, I created a digital literacy infographic using Canva. The poster explains digital literacy, useful digital tools, safe internet practices, and professional online presence. The infographic was exported and added to the repository along with a short reflection explaining the design and learning experience.
 
-link for the digital literacy:- https://docs.google.com/forms/d/e/1FAIpQLScSh2rhtVBVTaZPx3HaGlvYmdzzo27wNAEJS0-vBcOnVTk_zA/viewform?usp=header
-
+link for the digital literacy:- 
 Module 2 – Student Digital Portfolio For this module, I created professional accounts on GitHub, LinkedIn, and Kaggle. I also completed my GitHub profile README and updated my LinkedIn education details. Screenshots of all profiles were added to the repository along with a reflection on how these platforms will support my learning and career development.
 
 link for kaggle profile:- 
