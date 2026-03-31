@@ -1,5 +1,7 @@
 # Digital-Literacy-project
 Course: CSE0001 – Digital Literacy
+Click here to attempt my digital literacy Quiz:- https://docs.google.com/forms/d/e/1FAIpQLScHnmCch1_rqIjiDQeJpQ8qnd0fOkOvoQztckhOJesi4oNsOQ/viewform?usp=publish-editor
+
 
 Name: AADEESH AWASTHI
 
